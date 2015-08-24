@@ -1,4 +1,3 @@
-Documentation
-====================
+Sandbox Mock for Metron Login Data API Request
 
-Edit the Readme.md file and add doco about your sandbox.
+Note: Github repo is linked to getsandbox.com and automatically updated on save.
