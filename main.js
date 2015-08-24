@@ -36,4 +36,4 @@ Sandbox.define('/d2l/api/adp/unstable/events/userinteractionevent/login/count','
     res.type('application/json');
     res.status(200);
     res.json(result);
-})
+});
