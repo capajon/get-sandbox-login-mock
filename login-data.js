@@ -26,7 +26,6 @@ var generate = function generate(granularity, startTs, endTs, settings){
         });
         curUtcTs = getNextTs(curUtcTs, granularity, localOffset); 
     }
-
     return result;
 };
 
