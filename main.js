@@ -20,7 +20,7 @@ var loginSettings = {
         'randomCountMin': 60000,
         // empty (for no gaps) or 'YYYY/MM/DD' format or timestamp pairs - e.g. { 'start': '1999/04/01', 'end': '2000/05/01' }
         'zeroCountDateRanges': [ 
-            //{ 'start': '2010/01/01', 'end': '2014/01/1' }
+            { 'start': '2013/10/01', 'end': '2014/01/1' }
         ]
     }
 };
