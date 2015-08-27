@@ -3,7 +3,7 @@ var generateLoginData = require('login-data.js').generate,
 
 var loginSettings = {
     'daily': {
-        'startOverwrite': '2015/04/01', //null, //options for date range overrides: null (for no override) or 'YYYY/MM/DD' format or timestamp    
+        'startOverwrite': '2015/06/01', //null, //options for date range overrides: null (for no override) or 'YYYY/MM/DD' format or timestamp    
         'endOverwrite': null,
         'randomCountMax': 10000,
         'randomCountMin': 2000,
